@@ -1,0 +1,10 @@
+FontHeight=12
+Transparency=medium
+CursorType=block
+Columns=125
+Rows=40
+Font=Source Code Pro Medium
+FontWeight=500
+CtrlShiftShortcuts=yes
+PgUpDnScroll=yes
+BellType=0
