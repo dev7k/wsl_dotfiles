@@ -1,5 +1,5 @@
 Write-Host "Cloning powerline fonts repository"
-git clone https://github.com/powerline/fonts --depth=1
+git clone --depth 1 https://github.com/powerline/fonts
 Write-Host "Go to folder fonts"
 cd fonts
 Write-Host "Installing powerline fonts"
